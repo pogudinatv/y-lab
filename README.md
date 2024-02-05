@@ -1,6 +1,3 @@
-# homework_example
-Пример оформления домашних работ в рамках прохождения обучения на платформе [Ylab](https://learning-platform-dev.ylab.website/). 
-
 # Основной README файл.
 
 Пример оформления домашних работ в рамках прохождения обучения на платформе [Ylab](https://learning-platform-dev.ylab.website/). 
